@@ -1,6 +1,7 @@
 # Ci CD
 
 ![bug task diagram](https://github.com/Myash-New/cicd01/blob/main/Workflow%20bug%20Diagram.jpg)
+
 https://github.com/Myash-New/cicd01/blob/main/My%20workflow%20for%20bug%20task.xml
 
 https://github.com/Myash-New/cicd01/blob/main/My-workflow%20for%20bug%20task.jwb
@@ -8,6 +9,7 @@ https://github.com/Myash-New/cicd01/blob/main/My-workflow%20for%20bug%20task.jwb
 
 
 ![other task diagram](https://github.com/Myash-New/cicd01/blob/main/Workflow%20for%20other%20task%20Diagram.jpg)
+
 https://github.com/Myash-New/cicd01/blob/main/My%20workflow%20for%20other%20tasks.xml
 
 https://github.com/Myash-New/cicd01/blob/main/My-workflow-for%20other%20tasks.jwb
